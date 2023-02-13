@@ -12,7 +12,7 @@
 
 #### Review
 [Neural Style Transfer code](https://github.com/WestChaeVI/Neural-Style-Transfer-In-Pytorch/blob/main/Neural_Style_Transfer_For_Pytorch.ipynb) 
-> ![st git](https://user-images.githubusercontent.com/104747868/215530005-813c4910-7979-491b-8844-9da5690efb26.jpg)
+> ![Neural Style Transfer](https://user-images.githubusercontent.com/104747868/218386576-19951b83-91b2-4f61-b033-d45588784de0.jpg)
 
 > Proceed with Google Colab
 >
